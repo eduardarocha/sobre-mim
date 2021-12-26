@@ -1,3 +1,3 @@
-# Github Pages
+# GitHub Pages
 
-Aqui estão os meus primeiros sites hospedados no GitHub!
+Aqui está o meu site hospedado no GitHub Pages!
